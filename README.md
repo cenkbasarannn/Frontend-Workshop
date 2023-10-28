@@ -1,3 +1,3 @@
 # Frontend-Workshop
 techcareer.net case
-# https://cenkbasarannntechcareer.netlify.app/
+https://cenkbasarannntechcareer.netlify.app/
